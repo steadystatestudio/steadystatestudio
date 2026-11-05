@@ -11,6 +11,6 @@ Free, focused desktop tools for Windows and Linux. Local files, clear controls, 
 
 Worked guides: [Make photos square without cropping](https://steady-state-studio.com/guides/make-photos-square-without-cropping/) · [Create a printable photo contact sheet](https://steady-state-studio.com/guides/create-printable-photo-contact-sheet/)
 
-Have a repetitive task that could use a small tool? [Share an idea](https://github.com/steadystatestudio/steadystatestudio/issues). Describe the task, your current steps, and the result you need.
+Have a repetitive task that could use a small tool? [Share an idea](https://steady-state-studio.com/contact/). Describe the task, your current steps, and the result you need.
 
 All features are free. [Donations on Ko-fi](https://ko-fi.com/steadystatestudio) are optional.
